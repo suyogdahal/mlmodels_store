@@ -76,9 +76,10 @@ jobs:
            cd /home/runner/work/mlmodels_store/mlmodels_store/
            git config --local user.email "suyogdahal46@gmail.com"
            git config --local user.name "suyogdahal"        
-           git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com:suyogdahal/mlmodels_store.git
            git add .
            git commit -m "auto" 
            git push origin HEAD:master
+    # git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com:suyogdahal/mlmodels_store.git
+
            
            
