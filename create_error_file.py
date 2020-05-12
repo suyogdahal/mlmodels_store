@@ -2,8 +2,7 @@
 
 # Author: Suyog Dahal
 # Created: 06/05/2020
-# Description: A script to parse errors from a logfile and store the
-# errors into a new file
+# Description: A script to parse errors from a logfile and store the errors into a new file
 
 import glob
 import os
