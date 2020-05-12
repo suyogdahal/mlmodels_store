@@ -78,5 +78,5 @@ jobs:
            git config --local user.name "suyogdahal"        
            git pull origin master
            ls &&  git add --all &&  git commit -m "auto" 
-           git push origin master
+           git push
            
