@@ -18,10 +18,9 @@ def cli_load_arguments(config_file=None):
         Load CLI input
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--github_user",
-        default="arita37",
-        help="GitHub Username")
+    parser.add_argument("--github_user",
+                        default="arita37",
+                        help="GitHub Username")
     args = parser.parse_args()
     return args
 
