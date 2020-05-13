@@ -68,7 +68,7 @@ def create_error_file(
 
     # Create Empty File if no error is found
     if len(output) == 0:
-        output = ["### No Error"]
+        output = ["\n\n### No Error"]
 
     with open(output_file_path, 'w') as f:  # Write to o/p file
         f.write(f"## Original File URL: {latest_file_link}")
