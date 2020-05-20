@@ -1,7 +1,7 @@
-## Original File URL: https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py
+## Original File URL: https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py
 
 
-### Error 1, [Traceback at line 76](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L76)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 1, [Traceback at line 76](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L76)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -27,7 +27,7 @@
 
 
 
-### Error 2, [Traceback at line 111](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L111)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 2, [Traceback at line 111](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L111)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -41,7 +41,7 @@
 
 
 
-### Error 3, [Traceback at line 144](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L144)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 3, [Traceback at line 144](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L144)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -67,7 +67,7 @@
 
 
 
-### Error 4, [Traceback at line 179](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L179)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 4, [Traceback at line 179](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L179)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -81,7 +81,7 @@
 
 
 
-### Error 5, [Traceback at line 212](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L212)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 5, [Traceback at line 212](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L212)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -107,7 +107,7 @@
 
 
 
-### Error 6, [Traceback at line 247](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L247)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 6, [Traceback at line 247](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L247)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -121,7 +121,7 @@
 
 
 
-### Error 7, [Traceback at line 280](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L280)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 7, [Traceback at line 280](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L280)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -147,7 +147,7 @@
 
 
 
-### Error 8, [Traceback at line 315](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L315)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 8, [Traceback at line 315](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L315)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -161,7 +161,7 @@
 
 
 
-### Error 9, [Traceback at line 348](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L348)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 9, [Traceback at line 348](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L348)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -187,7 +187,7 @@
 
 
 
-### Error 10, [Traceback at line 383](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L383)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 10, [Traceback at line 383](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L383)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -201,7 +201,7 @@
 
 
 
-### Error 11, [Traceback at line 416](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L416)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 11, [Traceback at line 416](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L416)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -227,7 +227,7 @@
 
 
 
-### Error 12, [Traceback at line 451](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L451)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 12, [Traceback at line 451](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L451)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -241,7 +241,7 @@
 
 
 
-### Error 13, [Traceback at line 484](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L484)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 13, [Traceback at line 484](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L484)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -267,7 +267,7 @@
 
 
 
-### Error 14, [Traceback at line 519](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L519)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 14, [Traceback at line 519](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L519)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -281,7 +281,7 @@
 
 
 
-### Error 15, [Traceback at line 552](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L552)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 15, [Traceback at line 552](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L552)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -307,7 +307,7 @@
 
 
 
-### Error 16, [Traceback at line 587](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L587)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 16, [Traceback at line 587](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L587)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -321,7 +321,7 @@
 
 
 
-### Error 17, [Traceback at line 620](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L620)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 17, [Traceback at line 620](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L620)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -347,7 +347,7 @@
 
 
 
-### Error 18, [Traceback at line 655](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L655)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 18, [Traceback at line 655](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L655)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -361,7 +361,7 @@
 
 
 
-### Error 19, [Traceback at line 688](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L688)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 19, [Traceback at line 688](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L688)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -387,7 +387,7 @@
 
 
 
-### Error 20, [Traceback at line 723](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L723)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 20, [Traceback at line 723](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L723)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -401,7 +401,7 @@
 
 
 
-### Error 21, [Traceback at line 756](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L756)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 21, [Traceback at line 756](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L756)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -427,7 +427,7 @@
 
 
 
-### Error 22, [Traceback at line 791](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L791)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 22, [Traceback at line 791](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L791)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -441,7 +441,7 @@
 
 
 
-### Error 23, [Traceback at line 824](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L824)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 23, [Traceback at line 824](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L824)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -467,7 +467,7 @@
 
 
 
-### Error 24, [Traceback at line 859](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L859)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 24, [Traceback at line 859](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L859)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -481,7 +481,7 @@
 
 
 
-### Error 25, [Traceback at line 892](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L892)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 25, [Traceback at line 892](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L892)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -507,7 +507,7 @@
 
 
 
-### Error 26, [Traceback at line 927](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L927)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 26, [Traceback at line 927](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L927)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -521,7 +521,7 @@
 
 
 
-### Error 27, [Traceback at line 960](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L960)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 27, [Traceback at line 960](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L960)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -547,7 +547,7 @@
 
 
 
-### Error 28, [Traceback at line 995](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L995)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 28, [Traceback at line 995](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L995)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -561,7 +561,7 @@
 
 
 
-### Error 29, [Traceback at line 1028](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1028)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 29, [Traceback at line 1028](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1028)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -587,7 +587,7 @@
 
 
 
-### Error 30, [Traceback at line 1063](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1063)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 30, [Traceback at line 1063](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1063)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -601,7 +601,7 @@
 
 
 
-### Error 31, [Traceback at line 1096](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1096)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 31, [Traceback at line 1096](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1096)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -627,7 +627,7 @@
 
 
 
-### Error 32, [Traceback at line 1131](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1131)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 32, [Traceback at line 1131](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1131)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -641,7 +641,7 @@
 
 
 
-### Error 33, [Traceback at line 1164](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1164)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 33, [Traceback at line 1164](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1164)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -667,7 +667,7 @@
 
 
 
-### Error 34, [Traceback at line 1199](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1199)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 34, [Traceback at line 1199](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1199)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -681,7 +681,7 @@
 
 
 
-### Error 35, [Traceback at line 1232](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1232)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 35, [Traceback at line 1232](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1232)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -707,7 +707,7 @@
 
 
 
-### Error 36, [Traceback at line 1267](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1267)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 36, [Traceback at line 1267](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1267)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -721,7 +721,7 @@
 
 
 
-### Error 37, [Traceback at line 1300](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1300)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 37, [Traceback at line 1300](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1300)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -747,7 +747,7 @@
 
 
 
-### Error 38, [Traceback at line 1335](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1335)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 38, [Traceback at line 1335](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1335)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -761,7 +761,7 @@
 
 
 
-### Error 39, [Traceback at line 1368](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1368)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 39, [Traceback at line 1368](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1368)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -787,7 +787,7 @@
 
 
 
-### Error 40, [Traceback at line 1403](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1403)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 40, [Traceback at line 1403](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1403)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -801,7 +801,7 @@
 
 
 
-### Error 41, [Traceback at line 1436](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1436)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 41, [Traceback at line 1436](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1436)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -827,7 +827,7 @@
 
 
 
-### Error 42, [Traceback at line 1471](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1471)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 42, [Traceback at line 1471](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1471)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -841,7 +841,7 @@
 
 
 
-### Error 43, [Traceback at line 1504](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1504)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 43, [Traceback at line 1504](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1504)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -867,7 +867,7 @@
 
 
 
-### Error 44, [Traceback at line 1539](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1539)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 44, [Traceback at line 1539](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1539)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -881,7 +881,7 @@
 
 
 
-### Error 45, [Traceback at line 1572](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1572)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 45, [Traceback at line 1572](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1572)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -907,7 +907,7 @@
 
 
 
-### Error 46, [Traceback at line 1607](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1607)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 46, [Traceback at line 1607](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1607)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -921,7 +921,7 @@
 
 
 
-### Error 47, [Traceback at line 1640](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1640)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 47, [Traceback at line 1640](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1640)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -947,7 +947,7 @@
 
 
 
-### Error 48, [Traceback at line 1675](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1675)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 48, [Traceback at line 1675](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1675)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -961,7 +961,7 @@
 
 
 
-### Error 49, [Traceback at line 1708](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1708)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 49, [Traceback at line 1708](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1708)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -987,7 +987,7 @@
 
 
 
-### Error 50, [Traceback at line 1743](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1743)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 50, [Traceback at line 1743](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1743)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1001,7 +1001,7 @@
 
 
 
-### Error 51, [Traceback at line 1776](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1776)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 51, [Traceback at line 1776](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1776)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1027,7 +1027,7 @@
 
 
 
-### Error 52, [Traceback at line 1811](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1811)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 52, [Traceback at line 1811](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1811)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1041,7 +1041,7 @@
 
 
 
-### Error 53, [Traceback at line 1839](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1839)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 53, [Traceback at line 1839](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1839)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1051,7 +1051,7 @@
 
 
 
-### Error 54, [Traceback at line 1863](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1863)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 54, [Traceback at line 1863](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1863)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1061,7 +1061,7 @@
 
 
 
-### Error 55, [Traceback at line 1882](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1882)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 55, [Traceback at line 1882](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1882)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1075,7 +1075,7 @@
 
 
 
-### Error 56, [Traceback at line 1910](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1910)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 56, [Traceback at line 1910](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1910)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1085,7 +1085,7 @@
 
 
 
-### Error 57, [Traceback at line 1934](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1934)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 57, [Traceback at line 1934](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1934)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1095,7 +1095,7 @@
 
 
 
-### Error 58, [Traceback at line 1958](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1958)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 58, [Traceback at line 1958](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1958)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1105,7 +1105,7 @@
 
 
 
-### Error 59, [Traceback at line 1982](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1982)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 59, [Traceback at line 1982](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L1982)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1115,7 +1115,7 @@
 
 
 
-### Error 60, [Traceback at line 2001](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2001)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 60, [Traceback at line 2001](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2001)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1129,7 +1129,7 @@
 
 
 
-### Error 61, [Traceback at line 2029](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2029)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 61, [Traceback at line 2029](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2029)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1139,7 +1139,7 @@
 
 
 
-### Error 62, [Traceback at line 2053](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2053)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 62, [Traceback at line 2053](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2053)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1149,7 +1149,7 @@
 
 
 
-### Error 63, [Traceback at line 2072](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2072)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 63, [Traceback at line 2072](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2072)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1163,7 +1163,7 @@
 
 
 
-### Error 64, [Traceback at line 2100](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2100)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 64, [Traceback at line 2100](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2100)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1173,7 +1173,7 @@
 
 
 
-### Error 65, [Traceback at line 2124](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2124)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 65, [Traceback at line 2124](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2124)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1183,7 +1183,7 @@
 
 
 
-### Error 66, [Traceback at line 2143](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2143)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 66, [Traceback at line 2143](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2143)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1197,7 +1197,7 @@
 
 
 
-### Error 67, [Traceback at line 2171](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2171)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 67, [Traceback at line 2171](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2171)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1207,7 +1207,7 @@
 
 
 
-### Error 68, [Traceback at line 2190](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2190)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 68, [Traceback at line 2190](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2190)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1221,7 +1221,7 @@
 
 
 
-### Error 69, [Traceback at line 2221](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2221)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 69, [Traceback at line 2221](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2221)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1239,7 +1239,7 @@
 
 
 
-### Error 70, [Traceback at line 2248](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2248)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 70, [Traceback at line 2248](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2248)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1253,7 +1253,7 @@
 
 
 
-### Error 71, [Traceback at line 2329](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2329)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 71, [Traceback at line 2329](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2329)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1267,7 +1267,7 @@
 
 
 
-### Error 72, [Traceback at line 2359](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2359)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 72, [Traceback at line 2359](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2359)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1283,13 +1283,13 @@
 
 
 
-### Error 73, [Traceback at line 2376](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2376)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 73, [Traceback at line 2376](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2376)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 74, [Traceback at line 2383](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2383)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 74, [Traceback at line 2383](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2383)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1301,7 +1301,7 @@
 
 
 
-### Error 75, [Traceback at line 2404](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2404)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 75, [Traceback at line 2404](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2404)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1315,7 +1315,7 @@
 
 
 
-### Error 76, [Traceback at line 2530](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2530)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 76, [Traceback at line 2532](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2532)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1329,7 +1329,7 @@
 
 
 
-### Error 77, [Traceback at line 2558](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2558)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 77, [Traceback at line 2560](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2560)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1339,7 +1339,7 @@
 
 
 
-### Error 78, [Traceback at line 2577](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2577)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 78, [Traceback at line 2579](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2579)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1353,7 +1353,7 @@
 
 
 
-### Error 79, [Traceback at line 2652](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2652)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/model_tch/textcnn.py", line 153, in create_tabular_dataset
+### Error 79, [Traceback at line 2654](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2654)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/model_tch/textcnn.py", line 153, in create_tabular_dataset
 <br />    spacy_en = spacy.load( f'{lang}_core_web_sm', disable= disable)
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/site-packages/spacy/__init__.py", line 30, in load
 <br />    return util.load_model(name, **overrides)
@@ -1363,7 +1363,7 @@
 
 
 
-### Error 80, [Traceback at line 2663](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2663)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 80, [Traceback at line 2665](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2665)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1385,7 +1385,7 @@
 
 
 
-### Error 81, [Traceback at line 2694](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2694)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 81, [Traceback at line 2696](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2696)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1399,7 +1399,7 @@
 
 
 
-### Error 82, [Traceback at line 2724](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2724)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 82, [Traceback at line 2726](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2726)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1428,13 +1428,13 @@
 
 
 
-### Error 83, [Traceback at line 2754](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2754)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 83, [Traceback at line 2756](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2756)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 84, [Traceback at line 2761](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2761)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 84, [Traceback at line 2763](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2763)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1446,7 +1446,7 @@
 
 
 
-### Error 85, [Traceback at line 2784](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2784)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 85, [Traceback at line 2786](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2786)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1475,13 +1475,13 @@
 
 
 
-### Error 86, [Traceback at line 2814](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2814)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 86, [Traceback at line 2816](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2816)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 87, [Traceback at line 2821](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2821)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 87, [Traceback at line 2823](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2823)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1493,7 +1493,7 @@
 
 
 
-### Error 88, [Traceback at line 2844](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2844)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 88, [Traceback at line 2846](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2846)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1522,13 +1522,13 @@
 
 
 
-### Error 89, [Traceback at line 2874](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2874)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 89, [Traceback at line 2876](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2876)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 90, [Traceback at line 2881](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2881)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 90, [Traceback at line 2883](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2883)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1540,7 +1540,7 @@
 
 
 
-### Error 91, [Traceback at line 2904](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2904)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 91, [Traceback at line 2906](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2906)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1569,13 +1569,13 @@
 
 
 
-### Error 92, [Traceback at line 2934](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2934)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 92, [Traceback at line 2936](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2936)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 93, [Traceback at line 2941](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2941)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 93, [Traceback at line 2943](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2943)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1587,7 +1587,7 @@
 
 
 
-### Error 94, [Traceback at line 2964](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2964)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 94, [Traceback at line 2966](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2966)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1616,13 +1616,13 @@
 
 
 
-### Error 95, [Traceback at line 2994](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2994)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 95, [Traceback at line 2996](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L2996)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 96, [Traceback at line 3001](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3001)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 96, [Traceback at line 3003](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3003)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1634,7 +1634,7 @@
 
 
 
-### Error 97, [Traceback at line 3024](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3024)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 97, [Traceback at line 3026](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3026)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1663,13 +1663,13 @@
 
 
 
-### Error 98, [Traceback at line 3054](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3054)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 98, [Traceback at line 3056](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3056)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 99, [Traceback at line 3061](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3061)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 99, [Traceback at line 3063](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3063)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1681,7 +1681,7 @@
 
 
 
-### Error 100, [Traceback at line 3084](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3084)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 100, [Traceback at line 3086](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3086)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1710,13 +1710,13 @@
 
 
 
-### Error 101, [Traceback at line 3114](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3114)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 101, [Traceback at line 3116](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3116)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 102, [Traceback at line 3121](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3121)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 102, [Traceback at line 3123](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3123)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1728,7 +1728,7 @@
 
 
 
-### Error 103, [Traceback at line 3144](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3144)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 103, [Traceback at line 3146](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3146)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1757,13 +1757,13 @@
 
 
 
-### Error 104, [Traceback at line 3174](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3174)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 104, [Traceback at line 3176](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3176)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 105, [Traceback at line 3181](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3181)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 105, [Traceback at line 3183](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3183)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1775,7 +1775,7 @@
 
 
 
-### Error 106, [Traceback at line 3207](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3207)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 106, [Traceback at line 3209](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3209)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1785,7 +1785,7 @@
 
 
 
-### Error 107, [Traceback at line 3226](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3226)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 107, [Traceback at line 3228](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3228)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1795,7 +1795,7 @@
 
 
 
-### Error 108, [Traceback at line 3245](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3245)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 108, [Traceback at line 3247](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3247)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1805,7 +1805,7 @@
 
 
 
-### Error 109, [Traceback at line 3266](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3266)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 109, [Traceback at line 3268](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3268)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1834,13 +1834,13 @@
 
 
 
-### Error 110, [Traceback at line 3296](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3296)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 110, [Traceback at line 3298](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3298)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 111, [Traceback at line 3303](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3303)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 111, [Traceback at line 3305](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3305)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1852,7 +1852,7 @@
 
 
 
-### Error 112, [Traceback at line 3326](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3326)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 112, [Traceback at line 3328](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3328)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1881,13 +1881,13 @@
 
 
 
-### Error 113, [Traceback at line 3356](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3356)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 113, [Traceback at line 3358](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3358)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 114, [Traceback at line 3363](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3363)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 114, [Traceback at line 3365](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3365)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1899,7 +1899,7 @@
 
 
 
-### Error 115, [Traceback at line 3386](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3386)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 115, [Traceback at line 3388](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3388)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1928,13 +1928,13 @@
 
 
 
-### Error 116, [Traceback at line 3416](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3416)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 116, [Traceback at line 3418](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3418)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 117, [Traceback at line 3423](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3423)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 117, [Traceback at line 3425](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3425)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1946,7 +1946,7 @@
 
 
 
-### Error 118, [Traceback at line 3446](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3446)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 118, [Traceback at line 3448](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3448)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -1975,13 +1975,13 @@
 
 
 
-### Error 119, [Traceback at line 3476](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3476)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 119, [Traceback at line 3478](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3478)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 120, [Traceback at line 3483](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3483)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 120, [Traceback at line 3485](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3485)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -1993,7 +1993,7 @@
 
 
 
-### Error 121, [Traceback at line 3506](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3506)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 121, [Traceback at line 3508](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3508)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -2022,13 +2022,13 @@
 
 
 
-### Error 122, [Traceback at line 3536](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3536)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 122, [Traceback at line 3538](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3538)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 123, [Traceback at line 3543](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3543)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 123, [Traceback at line 3545](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3545)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2040,7 +2040,7 @@
 
 
 
-### Error 124, [Traceback at line 3566](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3566)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 124, [Traceback at line 3568](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3568)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -2069,13 +2069,13 @@
 
 
 
-### Error 125, [Traceback at line 3596](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3596)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 125, [Traceback at line 3598](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3598)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 126, [Traceback at line 3603](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3603)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 126, [Traceback at line 3605](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3605)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2087,7 +2087,7 @@
 
 
 
-### Error 127, [Traceback at line 3626](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3626)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 127, [Traceback at line 3628](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3628)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -2116,13 +2116,13 @@
 
 
 
-### Error 128, [Traceback at line 3656](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3656)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 128, [Traceback at line 3658](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3658)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 129, [Traceback at line 3663](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3663)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 129, [Traceback at line 3665](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3665)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2134,7 +2134,7 @@
 
 
 
-### Error 130, [Traceback at line 3686](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3686)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
+### Error 130, [Traceback at line 3688](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3688)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 72, in module_load
 <br />    module = import_module(f"mlmodels.{model_name}")
 <br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/lib/python3.6/importlib/__init__.py", line 126, in import_module
 <br />    return _bootstrap._gcd_import(name[level:], package, level)
@@ -2163,13 +2163,13 @@
 
 
 
-### Error 131, [Traceback at line 3716](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3716)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
+### Error 131, [Traceback at line 3718](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3718)<br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 84, in module_load
 <br />    model_name = str(Path(model_uri).parts[-2]) + "." + str(model_name)
 <br />IndexError: tuple index out of range
 
 
 
-### Error 132, [Traceback at line 3723](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3723)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 132, [Traceback at line 3725](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3725)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2181,7 +2181,7 @@
 
 
 
-### Error 133, [Traceback at line 3749](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3749)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 133, [Traceback at line 3751](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3751)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2191,7 +2191,7 @@
 
 
 
-### Error 134, [Traceback at line 3768](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3768)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 134, [Traceback at line 3770](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3770)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2205,7 +2205,7 @@
 
 
 
-### Error 135, [Traceback at line 3796](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3796)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 135, [Traceback at line 3798](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3798)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2215,7 +2215,7 @@
 
 
 
-### Error 136, [Traceback at line 3820](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3820)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 136, [Traceback at line 3822](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3822)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
@@ -2225,7 +2225,7 @@
 
 
 
-### Error 137, [Traceback at line 3844](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-12-00-20_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3844)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
+### Error 137, [Traceback at line 3846](https://github.com/arita37/mlmodels_store/blob/master/log_json/log_json_2020-05-11-14-12_1f36c00be3a0e28b634b1ba3bd0de78bfdb3dba5.py#L3846)<br />  File "/opt/hostedtoolcache/Python/3.6.10/x64/bin/ml_models", line 11, in <module>
 <br />    load_entry_point('mlmodels', 'console_scripts', 'ml_models')()
 <br />  File "/home/runner/work/mlmodels/mlmodels/mlmodels/models.py", line 527, in main
 <br />    fit_cli(arg)
